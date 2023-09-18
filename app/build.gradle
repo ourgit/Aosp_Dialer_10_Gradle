@@ -3,14 +3,14 @@ plugins {
 }
 
 android {
-    signingConfigs {
-        debug {
-            storeFile file('C:\\Users\\Fissy\\Desktop\\apktool\\tools\\keystore\\Retail.jks')
-            storePassword 'Qpalzm1784!'
-            keyAlias 'Retail'
-            keyPassword 'Qpalzm1784!'
-        }
-    }
+//    signingConfigs {
+//        debug {
+//            storeFile file('C:\\Users\\Fissy\\Desktop\\apktool\\tools\\keystore\\Retail.jks')
+//            storePassword 'Qpalzm1784!'
+//            keyAlias 'Retail'
+//            keyPassword 'Qpalzm1784!'
+//        }
+//    }
     compileSdk 33
 
     defaultConfig {
